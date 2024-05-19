@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student with
 
 - **[Smart Calendar Task Scheduler](https://github.com/PrathamS1/Smart-Calendar-Task-Scheduler)**: This is a web application for scheduling tasks within a specified time frame. It allows users to input their tasks along with estimated completion times, and generates a calendar showing the scheduled tasks within the given time period.
 - **[Sudoku Checker App](https://github.com/PrathamS1/SudokuCheckerApp)**: An interactive Python application with a Tkinter-based GUI for validating Sudoku puzzles. Users can input their Sudoku grids and check if they are correctly solved.
+- **[Discord Music Bot](https://github.com/PrathamS1/Discord-Music-Bot)**: Discord Music Bot is a versatile Discord bot designed to enhance the server's music experience by allowing users to play music from YouTube, manage music queues, control playback, and more.
 
 ## 🌱 Learning & Development
 
