@@ -1,4 +1,4 @@
-# Hi there, I'm [Pratham] 👋
+# Hi there, I'm Pratham 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PrathamS1&color=blue)
 
