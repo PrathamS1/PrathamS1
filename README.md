@@ -20,9 +20,14 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student with
 
 ## 🔭 Current Projects
 
-- **[Smart Calendar Task Scheduler](https://github.com/PrathamS1/Smart-Calendar-Task-Scheduler)**: This is a web application for scheduling tasks within a specified time frame. It allows users to input their tasks along with estimated completion times, and generates a calendar showing the scheduled tasks within the given time period.
-- **[Sudoku Checker App](https://github.com/PrathamS1/SudokuCheckerApp)**: An interactive Python application with a Tkinter-based GUI for validating Sudoku puzzles. Users can input their Sudoku grids and check if they are correctly solved.
-- **[Discord Music Bot](https://github.com/PrathamS1/Discord-Music-Bot)**: Discord Music Bot is a versatile Discord bot designed to enhance the server's music experience by allowing users to play music from YouTube, manage music queues, control playback, and more.
+- [**Smart Waste Management System**](https://github.com/PrathamS1/Smart-Waste-Management) *(in progress)*  
+  A real-time waste collection and optimization platform using OpenStreetMap, Dijkstra/A* algorithms, and live bin status data. It features intelligent vehicle routing, bin capacity tracking, and a simulation dashboard for effective management.
+
+- [**Real-Time Vehicle Collision Prevention System**] *(research project)*  
+  An AI-based surveillance system utilizing YOLOv8 and DeepSORT to detect vehicle collisions in real-time from CCTV feeds. It captures collision snapshots, predicts severity using a custom-trained model, and generates instant alerts.
+
+- [**The Silent Trail**](https://github.com/PrathamS1/The-Silent-Trail) *(blog platform)*  
+  A full-stack storytelling platform where users can publish, like, and view blog-style stories. Features include user authentication, keyword-based filtering, infinite scrolling, and Cloudinary-based image storage.
 
 ## 🌱 Learning & Development
 
