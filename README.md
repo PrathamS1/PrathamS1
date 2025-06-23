@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student with
 
 ## 🔭 Current Projects
 
-- [**Smart Waste Management System**](https://github.com/PrathamS1/Smart-Waste-Management) *(in progress)*  
+- [**Smart Waste Management System**](https://github.com/PrathamS1/Smart-Waste-Management)
   A real-time waste collection and optimization platform using OpenStreetMap, Dijkstra/A* algorithms, and live bin status data. It features intelligent vehicle routing, bin capacity tracking, and a simulation dashboard for effective management.
 
 - [**Real-Time Vehicle Collision Prevention System**] *(research project)*  
