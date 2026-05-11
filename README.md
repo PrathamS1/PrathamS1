@@ -50,16 +50,15 @@ Currently exploring the full spectrum of product creation through my internship,
 
 ## <img src="https://img.icons8.com/?size=100&id=5zO4D0wewNlS&format=png&color=ffffff" width="24" style="vertical-align: middle; margin-bottom: 1px;" /> Recent Works
 
-### [Daily UI Challenges](https://daily-ui-challenges-iota.vercel.app)
-A self-initiated project where I design and implement daily UI concepts to strengthen creativity, design discipline, and front-end precision.  
-> *Each challenge explores modern UI trends and transitions from concept to working implementation.*
+### [Clibben - Save & Organize Your Bookmarks](https://www.clibben.dev/)
+A simple tool designed to help you save, organize, and find your bookmark links instantly. Clibben keeps your digital life tidy and your most important resources just one click away.
+> *Clibben isn't just about "managing data", it's about building a library. Whether you're a developer, a designer, or just someone who spends a lot of time online, Clibben keeps your digital life organized.*
 
 ---
 
-### [Resume Speak (Demo Video)](https://www.youtube.com/watch?v=Rvbsj35H7h4)
-An experimental platform turning static resumes into **interactive conversations**.  
-Users can upload a resume, auto-generate answers to typical questions, and share a link that lets recruiters chat with the resume.  
-> *A bridge between availability and early-stage candidate screening.*
+### [Daily UI Challenges](https://daily-ui-challenges-iota.vercel.app)
+A self-initiated project where I design and implement daily UI concepts to strengthen creativity, design discipline, and front-end precision.  
+> *Each challenge explores modern UI trends and transitions from concept to working implementation.*
 
 ---
 
